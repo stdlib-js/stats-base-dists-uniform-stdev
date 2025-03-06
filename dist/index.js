@@ -1,5 +1,5 @@
-"use strict";var i=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var s=i(function(o,t){
-var u=require('@stdlib/math-base-special-sqrt/dist'),n=u(1/12);function a(e,r){return e>=r?NaN:n*(r-e)}t.exports=a
-});var v=s();module.exports=v;
+"use strict";var i=function(t,r){return function(){return r||t((r={exports:{}}).exports,r),r.exports}};var s=i(function(o,e){
+var u=.28867513459481287;function n(t,r){return t>=r?NaN:u*(r-t)}e.exports=n
+});var a=s();module.exports=a;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
