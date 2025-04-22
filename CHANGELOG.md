@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-06)
+## Unreleased (2025-04-22)
 
 <section class="features">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 4 issues were closed in this release:
 
-[#3836](https://github.com/stdlib-js/stdlib/issues/3836), [#4991](https://github.com/stdlib-js/stdlib/issues/4991), [#5304](https://github.com/stdlib-js/stdlib/issues/5304)
+[#3836](https://github.com/stdlib-js/stdlib/issues/3836), [#4991](https://github.com/stdlib-js/stdlib/issues/4991), [#5304](https://github.com/stdlib-js/stdlib/issues/5304), [#5903](https://github.com/stdlib-js/stdlib/issues/5903)
 
 </section>
 
@@ -34,6 +34,8 @@ A total of 3 issues were closed in this release:
 
 <details>
 
+-   [`8948bbc`](https://github.com/stdlib-js/stdlib/commit/8948bbcc14500981b8e617ed5c2bfe4d0384a93c) - **chore:** address commit comments for commit `f6829da` [(#6769)](https://github.com/stdlib-js/stdlib/pull/6769) _(by devshree-bhati, Philipp Burckhardt)_
+-   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`f6829da`](https://github.com/stdlib-js/stdlib/commit/f6829da93ff5ed53f07365ce1b2ce8303a5f517a) - **chore:** address commit comments [(#5320)](https://github.com/stdlib-js/stdlib/pull/5320) _(by Saurabh Singh)_
 -   [`afa0a17`](https://github.com/stdlib-js/stdlib/commit/afa0a17b6d628f825151674c1c3848be2a16f5dc) - **test:** pass in missing `opts` argument [(#5794)](https://github.com/stdlib-js/stdlib/pull/5794) _(by Karan Anand)_
 -   [`c7bfa92`](https://github.com/stdlib-js/stdlib/commit/c7bfa923af0c5346766c90300e0d0a3c2188d438) - **docs:** fix missing ending `section` in various READMEs [(#5292)](https://github.com/stdlib-js/stdlib/pull/5292) _(by Saurabh Singh)_
@@ -50,13 +52,14 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Gaurav
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 -   Saurabh Singh
+-   devshree-bhati
 
 </section>
 
