@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-22)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
@@ -15,6 +15,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`dc9cbad`](https://github.com/stdlib-js/stdlib/commit/dc9cbadc23ddabb54f00fc1d304c93e95fb3d88a) - remove unused `sqrt` dependency from `uniform/stdev` manifest
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -34,6 +44,7 @@ A total of 4 issues were closed in this release:
 
 <details>
 
+-   [`dc9cbad`](https://github.com/stdlib-js/stdlib/commit/dc9cbadc23ddabb54f00fc1d304c93e95fb3d88a) - **fix:** remove unused `sqrt` dependency from `uniform/stdev` manifest _(by Philipp Burckhardt)_
 -   [`8948bbc`](https://github.com/stdlib-js/stdlib/commit/8948bbcc14500981b8e617ed5c2bfe4d0384a93c) - **chore:** address commit comments for commit `f6829da` [(#6769)](https://github.com/stdlib-js/stdlib/pull/6769) _(by devshree-bhati, Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`f6829da`](https://github.com/stdlib-js/stdlib/commit/f6829da93ff5ed53f07365ce1b2ce8303a5f517a) - **chore:** address commit comments [(#5320)](https://github.com/stdlib-js/stdlib/pull/5320) _(by Saurabh Singh)_
