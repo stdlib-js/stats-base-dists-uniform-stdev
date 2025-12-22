@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-20)
+## Unreleased (2025-12-22)
 
 <section class="features">
 
@@ -48,13 +48,13 @@ A total of 4 issues were closed in this release:
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
 -   [`dc9cbad`](https://github.com/stdlib-js/stdlib/commit/dc9cbadc23ddabb54f00fc1d304c93e95fb3d88a) - **fix:** remove unused `sqrt` dependency from `uniform/stdev` manifest _(by Philipp Burckhardt)_
--   [`8948bbc`](https://github.com/stdlib-js/stdlib/commit/8948bbcc14500981b8e617ed5c2bfe4d0384a93c) - **chore:** address commit comments for commit `f6829da` [(#6769)](https://github.com/stdlib-js/stdlib/pull/6769) _(by devshree-bhati, Philipp Burckhardt)_
+-   [`8948bbc`](https://github.com/stdlib-js/stdlib/commit/8948bbcc14500981b8e617ed5c2bfe4d0384a93c) - **chore:** address commit comments for commit `f6829da` [(#6769)](https://github.com/stdlib-js/stdlib/pull/6769) _(by Devshree Bhati, Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`f6829da`](https://github.com/stdlib-js/stdlib/commit/f6829da93ff5ed53f07365ce1b2ce8303a5f517a) - **chore:** address commit comments [(#5320)](https://github.com/stdlib-js/stdlib/pull/5320) _(by Saurabh Singh)_
 -   [`afa0a17`](https://github.com/stdlib-js/stdlib/commit/afa0a17b6d628f825151674c1c3848be2a16f5dc) - **test:** pass in missing `opts` argument [(#5794)](https://github.com/stdlib-js/stdlib/pull/5794) _(by Karan Anand)_
 -   [`c7bfa92`](https://github.com/stdlib-js/stdlib/commit/c7bfa923af0c5346766c90300e0d0a3c2188d438) - **docs:** fix missing ending `section` in various READMEs [(#5292)](https://github.com/stdlib-js/stdlib/pull/5292) _(by Saurabh Singh)_
 -   [`d9c5d0c`](https://github.com/stdlib-js/stdlib/commit/d9c5d0c3343a0d0354d90d57f39638183bf3f51d) - **feat:** add C implementation for `stats/base/dists/uniform/stdev` [(#4133)](https://github.com/stdlib-js/stdlib/pull/4133) _(by Prashant Kumar Yadav, stdlib-bot)_
--   [`273d9f1`](https://github.com/stdlib-js/stdlib/commit/273d9f168ed5293a563e6748219f79a033e7ca8a) - **bench:** refactor random number generation in benchmarks for `stats/base/dists/uniform` [(#5176)](https://github.com/stdlib-js/stdlib/pull/5176) _(by Gaurav, Philipp Burckhardt, stdlib-bot)_
+-   [`273d9f1`](https://github.com/stdlib-js/stdlib/commit/273d9f168ed5293a563e6748219f79a033e7ca8a) - **bench:** refactor random number generation in benchmarks for `stats/base/dists/uniform` [(#5176)](https://github.com/stdlib-js/stdlib/pull/5176) _(by Gaurav Jadhav, Philipp Burckhardt, stdlib-bot)_
 
 </details>
 
@@ -68,12 +68,12 @@ A total of 4 issues were closed in this release:
 
 A total of 6 people contributed to this release. Thank you to the following contributors:
 
--   Gaurav
+-   Devshree Bhati
+-   Gaurav Jadhav
 -   Karan Anand
 -   Philipp Burckhardt
 -   Prashant Kumar Yadav
 -   Saurabh Singh
--   devshree-bhati
 
 </section>
 
