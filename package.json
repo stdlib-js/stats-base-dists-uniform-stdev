@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/stats-base-dists-uniform-stdev",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Uniform distribution standard deviation.",
   "license": "Apache-2.0",
   "author": {
@@ -51,7 +51,7 @@
     "@stdlib/math-base-special-abs": "^0.2.2",
     "@stdlib/random-array-uniform": "^0.2.1",
     "@stdlib/random-base-randu": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/string-format": "^0.2.3",
     "@stdlib/utils-try-require": "^0.2.2",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
