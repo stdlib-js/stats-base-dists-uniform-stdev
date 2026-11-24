@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-07)
+## Unreleased (2026-11-24)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`8f62240`](https://github.com/stdlib-js/stdlib/commit/8f622403b8f6ff3781a17dc7ceb077e341e91aa3) - **docs:** clean-up [(#16084)](https://github.com/stdlib-js/stdlib/pull/16084) _(by Philipp Burckhardt)_
 -   [`706d998`](https://github.com/stdlib-js/stdlib/commit/706d99816de046d6f7def762c98a8061b830c1b4) - **test:** migrate `stats/base/dists/uniform/stdev` to ULP-based assertions [(#15338)](https://github.com/stdlib-js/stdlib/pull/15338) _(by Athan Reines)_
 -   [`f9dbbfa`](https://github.com/stdlib-js/stdlib/commit/f9dbbfaf48e1830f1c9fb685856eac2edba3fac6) - **docs:** fix C examples [(#11138)](https://github.com/stdlib-js/stdlib/pull/11138) _(by anee3, Athan Reines)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
